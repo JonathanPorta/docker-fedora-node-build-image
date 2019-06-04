@@ -1,2 +1,5 @@
-# Fedora 26 Build Container
-Contains: nodejs, yarn, fpm, rpmbuild tools, and probably other stuff.
+# Fedora 29 Build Container
+
+Multipurpose build container for things like CI.
+
+Contains: nodejs, yarn, fpm, rpmbuild tools, virtualenv, and probably other stuff.
